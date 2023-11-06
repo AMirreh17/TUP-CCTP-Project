@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>AM CCTP</p>
+        <p>This is a test build for "The Undercover Project</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>The Undercover Project - 2024</footer>
     </div>
   );
 }
