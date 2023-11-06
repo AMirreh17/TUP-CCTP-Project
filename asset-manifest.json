@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TUP-CCTP-Project/static/css/main.f855e6bc.css",
+    "main.js": "/TUP-CCTP-Project/static/js/main.dbf06dd1.js",
+    "static/js/787.25357e7a.chunk.js": "/TUP-CCTP-Project/static/js/787.25357e7a.chunk.js",
+    "static/media/logo.svg": "/TUP-CCTP-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TUP-CCTP-Project/index.html",
+    "main.f855e6bc.css.map": "/TUP-CCTP-Project/static/css/main.f855e6bc.css.map",
+    "main.dbf06dd1.js.map": "/TUP-CCTP-Project/static/js/main.dbf06dd1.js.map",
+    "787.25357e7a.chunk.js.map": "/TUP-CCTP-Project/static/js/787.25357e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dbf06dd1.js"
+  ]
+}
